@@ -3,7 +3,9 @@
 ## About me
 My primary research interest is generating insights from large biological datasets. My expertise is specifically in understanding how gene expression is regulated in mammalian cells.
 
-These days, I’m learning all about canine genetics while working as a Senior Scientist in Computational Biology at [Embark Vet](https://embarkvet.com/). I’m very excited to use my genomics training to improve dog (and human!) health.
+These days, I’m learning all about canine genetics, epigenetics, and aging while working as a Senior Scientist in Computational Biology at [Embark Vet](https://embarkvet.com/). I’m very excited to use my genomics training to improve dog (and human!) health.
+
+Outside of work, I can be found chasing my kid around playgrounds, enjoying Ithaca's natural beauty, or reading all sorts of books.
 
 ## Previous research
 My previous position was as a post-doctoral researcher in [John Lis‘s group](https://blogs.cornell.edu/johnlislab/) in the Department of Molecular Biology & Genetics at Cornell University. I used systems biology approaches to investigate how chromatin accessibility and protein binding in different cell types impact how small molecules alter enhancer activity (see the pre-print [here](https://www.biorxiv.org/content/10.1101/2021.06.01.444518v1.full). I also [optimized an assay](https://www.biorxiv.org/content/10.1101/2020.05.18.102277v1) for identifying changes in transcription, and wrote a highly cited review on [profiling nascent RNAs](https://pubmed.ncbi.nlm.nih.gov/31399713/).
