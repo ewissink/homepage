@@ -3,12 +3,16 @@
 ## About me
 My primary research interest is generating insights from large biological datasets. My expertise is specifically in understanding how gene expression is regulated in mammalian cells.
 
-Most recently, I was learning all about canine genetics, epigenetics, and aging while working as a Senior Scientist in Computational Biology at [Embark Vet](https://embarkvet.com/). I’m very excited to use my genomics training with machine learning to improve dog (and human!) health.
+I am currently a Research Associate at Cornell University in [Andrew Grimson‘s group](https://www.grimsonlab.com/) as part of the [Center for Enervating NeuroImmune Disease](https://neuroimmune.cornell.edu/). There, I use single-cell genomics techniques to identify sources of immune cell dysfunction in ME/CFS.
+
+
 
 Outside of work, I can be found chasing my kid around playgrounds, enjoying Ithaca's natural beauty, or reading all sorts of books.
 
 ## Previous research
-My previous position was as a post-doctoral researcher in [John Lis‘s group](https://blogs.cornell.edu/johnlislab/) in the Department of Molecular Biology & Genetics at Cornell University. I used systems biology approaches to investigate how chromatin accessibility and protein binding in different cell types impact how small molecules alter enhancer activity (see the pre-print [here](https://www.biorxiv.org/content/10.1101/2021.06.01.444518v1.full). I also [optimized an assay](https://www.biorxiv.org/content/10.1101/2020.05.18.102277v1) for identifying changes in transcription, and wrote a highly cited review on [profiling nascent RNAs](https://pubmed.ncbi.nlm.nih.gov/31399713/).
+Most recently, I was learning all about canine genetics, epigenetics, and aging while working as a Senior Scientist in Computational Biology at [Embark Vet](https://embarkvet.com/). There, I created a test that used DNA methylation to predict the age of companion dogs as a way to enable pet owners to best care for their dogs.
+
+Previously, I was a post-doctoral researcher in [John Lis‘s group](https://blogs.cornell.edu/johnlislab/) in the Department of Molecular Biology & Genetics at Cornell University. I used systems biology approaches to investigate how chromatin accessibility and protein binding in different cell types impact how small molecules alter enhancer activity (see the pre-print [here](https://www.biorxiv.org/content/10.1101/2021.06.01.444518v1.full). I also [optimized an assay](https://www.biorxiv.org/content/10.1101/2020.05.18.102277v1) for identifying changes in transcription, and wrote a highly cited review on [profiling nascent RNAs](https://pubmed.ncbi.nlm.nih.gov/31399713/).
 
 Before that, I was a post-doctoral researcher with [Tracy Johnson](https://johnsonlab.mcdb.ucla.edu/) in the Department of Molecular, Cellular, and Developmental Biology at UCLA. There, I researched the interplay between chromatin and co-transcriptional splicing in macrophages as part of the Ribonomics collaboration. A paper from our group is available [here](https://pubmed.ncbi.nlm.nih.gov/36424375/).
 
